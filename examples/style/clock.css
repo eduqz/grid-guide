@@ -10,9 +10,10 @@ main {
 .clock {
     display: grid;
     grid-template-areas: 
-        "name name name name name name name name name"
-        "hours dots1 dots1 dots1 minutes dots2 dots2 dots2 seconds";
+        "name name name name name"
+        "hours dots1 minutes dots2 seconds";
     text-align: center;
+    grid-gap: 5px 10px;
     width: 100px;
     margin: 0 auto;
     padding: 20px;
