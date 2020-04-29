@@ -19,7 +19,6 @@ article {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 50px 1fr;
     grid-gap: 0 20px;
-    margin: 0 20px;
 }
 
 .header {
@@ -38,4 +37,8 @@ h1 {
 
 h2 {
     text-align: center;
+}
+
+.text {
+    padding: 0 20px;
 }
