@@ -1,0 +1,11 @@
+.cardlist {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 100px);
+    grid-gap: 15px 10px;
+}
+
+.carditem {
+    background-color: aquamarine;
+    height: 50px;
+    width: 100px;
+}
