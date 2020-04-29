@@ -36,3 +36,10 @@ CSS Grid é um sistema de organização de layout 2d disponível no CSS. Está n
 
 ### Units
 - `fr`
+
+
+## References
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://www.w3schools.com/css/css_grid.asp
+- https://www.origamid.com/projetos/css-grid-layout-guia-completo/
+- https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout
