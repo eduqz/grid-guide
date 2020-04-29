@@ -1,5 +1,7 @@
 html, body {
     margin: 0;
+    width: 100%;
+    height: 100vh;
 }
 
 .navbar-list {
@@ -24,4 +26,8 @@ html, body {
 
 .navbar-item a:hover {
     background-color: #111;
+}
+
+h1 {
+    margin: 10px 20px;
 }
