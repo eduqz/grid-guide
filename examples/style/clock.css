@@ -1,0 +1,49 @@
+main {
+    display: inline-flex;
+    width: 100%;
+}
+
+main {
+    margin: 10px 20px;
+}
+
+.clock {
+    display: grid;
+    grid-template-areas: 
+        "name name name name name name name name name"
+        "hours dots1 dots1 dots1 minutes dots2 dots2 dots2 seconds";
+    text-align: center;
+    width: 100px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 5px 0;
+}
+
+.name {
+    grid-area: name;
+}
+
+.hours {
+    grid-area: hours;
+    font-weight: bold;
+}
+
+.dots-1 {
+    grid-area: dots1;
+}
+
+.minutes {
+    grid-area: minutes;
+    font-weight: bold;
+}
+
+.dots-2 {
+    grid-area: dots2;
+}
+
+.seconds {
+    grid-area: seconds;
+    font-weight: bold;
+}
