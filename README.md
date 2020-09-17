@@ -22,7 +22,7 @@ CSS Grid é um sistema de organização de layout 2d disponível no CSS. Está n
 - `repeat()`: recebe, como primeiro parâmetro, o número de repetições (também possível utilizar`auto-fill` ou `auto-fit` para que o número de repetições seja definido automaticamente, a partir da disponibilidade de espaço); e, como segundo parâmetro, a largura/altura da coluna/linha
 - `minmax()`: recebe, como primeiro parâmetro, o valor mínimo de largura/altura assumido pela coluna/linha e, em seguida, o valor máximo assumido
 
-### Units
+### Unidades
 - `fr`: unidade de medida utilizada no grid que indica fração do espaço disponível
 
 ## Exemplos
@@ -31,7 +31,7 @@ No referido projeto, há 3 exemplos de uso de `css grid` para construir diferent
 2. **Relógio**: Demonstra uma estrutura fixa de grade, na qual os elementos se organizam de modo definir um título e distâncias iguais entre números (referentes a horas, minutos e segundos) e separadores (:)
 3. **Estrutura multicoluna**: Mostra uma estrutura de página na qual se utiliza grid para definir uma estrutura de múltiplas colunas - tanto com relação ao menu lateral e ao container de conteúdo, quanto em relação á exibição dentro do container, na qual o texto é dividido em duas colunas e o título as mescla
 
-## References
+## Referencias
 - https://css-tricks.com/snippets/css/complete-guide-grid/
 - https://www.w3schools.com/css/css_grid.asp
 - https://www.origamid.com/projetos/css-grid-layout-guia-completo/
